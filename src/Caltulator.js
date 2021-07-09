@@ -103,7 +103,7 @@ function Calculator() {
             <h1>Calculator Sederhana</h1>
             {error && (
                 <div className="alert">
-                    Penjumlah Tidak Bisa Di Proses
+                    Ceklis Minimal 2 Nilai
                 </div>
             )}
             <form>
